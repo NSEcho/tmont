@@ -36,3 +36,7 @@ func handlerino(w http.ResponseWriter, r *http.Request) {
 	tpl.Execute(w, nil)
 }
 ```
+
+# Note
+
+Project is experimental, made for fun but will be used in my own projects
